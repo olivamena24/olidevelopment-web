@@ -36,8 +36,7 @@ export default function AnimacionOD() {
           <img
             src={escena.src}
             alt={escena.nombre}
-            className="h-full w-full object-contain"
-          />
+className="h-full w-full object-contain mix-blend-screen"          />
         </div>
       ))}
     </div>
